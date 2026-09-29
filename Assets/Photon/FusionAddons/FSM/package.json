@@ -1,0 +1,8 @@
+{
+  "name": "com.photonengine.fusion-fsm",
+  "displayName": "Fusion FSM",
+  "version": "2.1.0",
+  "documentationUrl": "https://doc.photonengine.com/fusion/current/addons/fsm",
+  "description": "A finite state machine solution for Photon Fusion that lets you define states and transitions to drive game object behavior in multiplayer games.",
+  "author": "Photon Engine"
+}
